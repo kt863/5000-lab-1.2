@@ -1,0 +1,74 @@
+---
+title: "simple_quarto_website"
+---
+
+This is a Quarto website.
+
+# Welcome to my Quarto Website
+
+
+## Here is my introduction of DSAN Progran
+
+
+### Here is the detail of the core courses and elective courses
+- ** core courses: this include the 5 core course in DSAN Program
+- ** elective courses: except the 5 core courses, DSAN student require to choose other 5 elective courses
+- ** finish both core and elective, and then congradulation, you are graduated!!
+
+
+## Here is the two columns layout
+:::{.columns}
+- **Column 1**: core courses include: DSAN 5000, DSAN 5100, DSAN, DSAN 5200, DSAN 5300, DSAN 6000
+- **Column 2**: elective courses indlude:DSAN 5400, DSAN 5450, DSAN 5500, DSAN 5550, DSAN 5600, DSAN 5700, DSAN 5800, DSAN 5900, DSAN 5925, DSAN 6100, DSAN 6150, DSAN 6200, DSAN 6400, DSAN 6400, DSAN 6500, DSAN 6550, DSAN 6600, DSAN 6650, DSAN 6700, DSAN 6750, DSAN 6800, DSAN 6850, DSAN 7000,
+:::
+
+## Here is the markdown table
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Row 1    | Data 1   | Data 2   |
+| Row 2    | Data 3   | Data 4   |
+| Row 3    | Data 5   | Data 6   |
+
+## Here is the inline-math and non inline-math LaTex equation
+this is the speed function
+$s = vt$
+
+
+
+
+this is the area function of a circle
+$$
+S = pi * r^2
+$$
+## Footnote
+
+"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."[^1].
+
+## Quote
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dictum enim neque, eu interdum nulla condimentum nec. Vivamus non sapien.
+
+## Embedded images
+![image 1](images/Wuhan1.jpg)
+![image 2](images/Wuhan2.jpg)
+
+## Embedded video
+<iframe width="560" height="400" src="https://www.youtube.com/embed/DeDCtt6xhDI"></iframe>
+
+## Mermaid Diagram
+
+
+```{mermaid}
+flowchart LR
+  A[DSAN Student] --> B(core and elective)
+  B --> C{30 credits}
+  C --> D[graduated]
+```
+
+## Citations from .bib file
+Here is an example of a citation from the bibliography file [@yu2024application].
+
+
+
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

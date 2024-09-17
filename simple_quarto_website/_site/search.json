@@ -1,0 +1,114 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "index.html#here-is-my-introduction-of-dsan-progran",
+    "href": "index.html#here-is-my-introduction-of-dsan-progran",
+    "title": "simple_quarto_website",
+    "section": "Here is my introduction of DSAN Progran",
+    "text": "Here is my introduction of DSAN Progran\n\nHere is the detail of the core courses and elective courses\n\n** core courses: this include the 5 core course in DSAN Program\n** elective courses: except the 5 core courses, DSAN student require to choose other 5 elective courses\n** finish both core and elective, and then congradulation, you are graduated!!"
+  },
+  {
+    "objectID": "index.html#here-is-the-two-columns-layout",
+    "href": "index.html#here-is-the-two-columns-layout",
+    "title": "simple_quarto_website",
+    "section": "Here is the two columns layout",
+    "text": "Here is the two columns layout\n\n\nColumn 1: core courses include: DSAN 5000, DSAN 5100, DSAN, DSAN 5200, DSAN 5300, DSAN 6000\nColumn 2: elective courses indlude:DSAN 5400, DSAN 5450, DSAN 5500, DSAN 5550, DSAN 5600, DSAN 5700, DSAN 5800, DSAN 5900, DSAN 5925, DSAN 6100, DSAN 6150, DSAN 6200, DSAN 6400, DSAN 6400, DSAN 6500, DSAN 6550, DSAN 6600, DSAN 6650, DSAN 6700, DSAN 6750, DSAN 6800, DSAN 6850, DSAN 7000,"
+  },
+  {
+    "objectID": "index.html#here-is-the-markdown-table",
+    "href": "index.html#here-is-the-markdown-table",
+    "title": "simple_quarto_website",
+    "section": "Here is the markdown table",
+    "text": "Here is the markdown table\n\n\n\nHeader 1\nHeader 2\nHeader 3\n\n\n\n\nRow 1\nData 1\nData 2\n\n\nRow 2\nData 3\nData 4\n\n\nRow 3\nData 5\nData 6"
+  },
+  {
+    "objectID": "index.html#here-is-the-inline-math-and-non-inline-math-latex-equation",
+    "href": "index.html#here-is-the-inline-math-and-non-inline-math-latex-equation",
+    "title": "simple_quarto_website",
+    "section": "Here is the inline-math and non inline-math LaTex equation",
+    "text": "Here is the inline-math and non inline-math LaTex equation\nthis is the speed function \\(s = vt\\)\nthis is the area function of a circle \\[\nS = pi * r^2\n\\] ## Footnote\n“Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit…”[^1]."
+  },
+  {
+    "objectID": "index.html#quote",
+    "href": "index.html#quote",
+    "title": "simple_quarto_website",
+    "section": "Quote",
+    "text": "Quote\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dictum enim neque, eu interdum nulla condimentum nec. Vivamus non sapien."
+  },
+  {
+    "objectID": "index.html#embedded-images",
+    "href": "index.html#embedded-images",
+    "title": "simple_quarto_website",
+    "section": "Embedded images",
+    "text": "Embedded images"
+  },
+  {
+    "objectID": "index.html#embedded-video",
+    "href": "index.html#embedded-video",
+    "title": "simple_quarto_website",
+    "section": "Embedded video",
+    "text": "Embedded video"
+  },
+  {
+    "objectID": "index.html#mermaid-diagram",
+    "href": "index.html#mermaid-diagram",
+    "title": "simple_quarto_website",
+    "section": "Mermaid Diagram",
+    "text": "Mermaid Diagram\n\n\n\n\n\nflowchart LR\n  A[DSAN Student] --&gt; B(core and elective)\n  B --&gt; C{30 credits}\n  C --&gt; D[graduated]"
+  },
+  {
+    "objectID": "index.html#citations-from-.bib-file",
+    "href": "index.html#citations-from-.bib-file",
+    "title": "simple_quarto_website",
+    "section": "Citations from .bib file",
+    "text": "Citations from .bib file\nHere is an example of a citation from the bibliography file (Yu, Ai, and Wang 2024).\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "slides/slides.html#first-page-of-slide",
+    "href": "slides/slides.html#first-page-of-slide",
+    "title": "My first slides",
+    "section": "First page of slide",
+    "text": "First page of slide\nhere is my first page of the first slide"
+  },
+  {
+    "objectID": "slides/slides.html#here-are-two-images",
+    "href": "slides/slides.html#here-are-two-images",
+    "title": "My first slides",
+    "section": "Here are two images",
+    "text": "Here are two images\n\ncute dog"
+  },
+  {
+    "objectID": "slides/slides.html#second-images",
+    "href": "slides/slides.html#second-images",
+    "title": "My first slides",
+    "section": "Second images",
+    "text": "Second images\n\ndogs family"
+  },
+  {
+    "objectID": "slides/slides.html#here-is-the-plot-slide",
+    "href": "slides/slides.html#here-is-the-plot-slide",
+    "title": "My first slides",
+    "section": "Here is the plot slide",
+    "text": "Here is the plot slide"
+  },
+  {
+    "objectID": "slides/slides.html#here-is-the-citation",
+    "href": "slides/slides.html#here-is-the-citation",
+    "title": "My first slides",
+    "section": "Here is the citation",
+    "text": "Here is the citation\n\nHere is an example of a citation from the bibliography file (Lu et al. 2024).\n\n\n\n\n\n\n\n\n\nLu, Qinghua, Liming Zhu, Xiwei Xu, Jon Whittle, Didar Zowghi, and Aurelie Jacquet. 2024. “Responsible AI Pattern Catalogue: A Collection of Best Practices for AI Governance and Engineering.” ACM Computing Surveys 56 (7): 1–35."
+  }
+]
